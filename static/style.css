@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+}
+
+#container, #panel{
+    border: 3px solid black;
+}
+
+#panel{
+    width: 80%;
+    margin: auto;
+    height: auto;
+    text-align: center;
+}
+
+#input-form{
+    border: 2px solid black;
+    width: 600px;
+    height: 600px;
+    margin: auto;
+    margin-top: 30px;
+    border-radius: 20px;
+    padding:10px;
+    font-family:'Berlin Sans FB';
+    font-size: 20px
+}
